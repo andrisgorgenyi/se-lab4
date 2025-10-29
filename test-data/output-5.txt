@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO
+FAIL    # test if we really fired both
+FAIL    # test if we really fired both

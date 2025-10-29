@@ -1,0 +1,3 @@
+# Single Bay Firing - Alternate Attempts
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # Set firing mode to SINGLE. Attempt to fire the secondary store.
