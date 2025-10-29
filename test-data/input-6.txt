@@ -1,0 +1,3 @@
+# Empty Stores - Failure (ALL Mode)
+GT4500,1,1,1,1
+TORPEDO,ALL  # Set firing mode to ALL. Attempt to fire both stores simultaneously.

@@ -1,0 +1,3 @@
+# Failure in Primary Store
+GT4500,0,1,1,1
+TORPEDO,SINGLE  # Set firing mode to SINGLE. Attempt to fire the primary store, which should fail.

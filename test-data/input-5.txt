@@ -1,0 +1,5 @@
+# All Bays Firing (ALL Mode)
+GT4500,1,0,1,0
+TORPEDO,ALL  # Set firing mode to ALL. Attempt to fire both stores simultaneously.
+TORPEDO,SINGLE  # test if we really fired both
+TORPEDO,SINGLE  # test if we really fired both

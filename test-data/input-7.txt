@@ -1,0 +1,5 @@
+# One Fails (ALL Mode)
+GT4500,0,0,2,0
+TORPEDO,ALL  # Set firing mode to ALL. Attempt to fire both stores simultaneously, only one fires.
+TORPEDO,SINGLE  # Try to fire the first it will Fail
+TORPEDO,SINGLE  # Try to fire the second it will fire
