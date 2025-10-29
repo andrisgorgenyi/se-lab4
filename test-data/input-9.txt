@@ -1,0 +1,5 @@
+# Fire secondary first
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE  # Try to fire the secondary torpedo first
+TORPEDO,SINGLE
